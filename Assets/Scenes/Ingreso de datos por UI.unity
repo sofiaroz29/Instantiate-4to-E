@@ -315,7 +315,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Clonar!
+  m_Text: Aceptar
 --- !u!222 &522290989
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -486,7 +486,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2066864718}
-        m_MethodName: ShowGreetings
+        m_MethodName: ShowDouble
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
